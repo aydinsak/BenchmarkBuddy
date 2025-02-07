@@ -1,0 +1,10 @@
+web\ImageServlet.class
+web\UserServlet.class
+web\DeviceServlet.class
+dao\UserDAO.class
+model\Device.class
+dao\DeviceDAO.class
+com\mycompany\benchmarkbuddy\resources\JakartaEE10Resource.class
+model\User.class
+com\mycompany\benchmarkbuddy\JakartaRestConfiguration.class
+model\Preference.class
